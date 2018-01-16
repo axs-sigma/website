@@ -218,7 +218,7 @@
 
 
 /*Responsive settings*/
-@media only screen and (max-width:800px){
+@media only screen and (max-width:600px){
 
     #ninja-slider-prev, #ninja-slider-next, #ninja-slider-pager {
         display:none;
