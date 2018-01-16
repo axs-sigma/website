@@ -6823,5 +6823,16 @@ button.close {
 
 /*User added stuff. */
 
+.hex-pole
+{
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.hex-mid
+{
+  margin-right: -15px;
+  margin-left: -15px;
+}
 
 /*# sourceMappingURL=bootstrap.css.map */
