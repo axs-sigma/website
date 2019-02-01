@@ -16,6 +16,8 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
@@ -27,6 +29,14 @@ body {
     padding: 0;
     font-size: 4.5em;
     font-weight: 700;
+}
+
+h2 {
+    margin: 1;
+    margin-left: 30px;
+    padding: 0;
+    font-size: 2em;
+    font-weight: 500;
 }
 
 /* Custom Button Styles */
@@ -161,6 +171,11 @@ hr.small {
     background-size: cover;
     -o-background-size: cover;
 }
+
+/* Family Tree 
+.brothersearch {
+    font-size: medium;
+}*/
 
 /* About */
 
